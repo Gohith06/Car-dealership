@@ -1,0 +1,99 @@
+----------------------------------------------------------------------------
+                           Sat Jan 21 06:52:21 IST 2023
+Name :Gohith 
+Phone :8073863659
+Car Company :Huyndai
+Car Model :Verna
+Buying price :1500000
+Sale price :1200000
+Year of Purchase :2020
+Car number :KA-09-MB-1234
+Kilometers run :50000
+----------------------------------------------------------------------------
+                           Sat Jan 21 06:57:37 IST 2023
+Name :Raju
+Phone :9186473640
+Car Company :Honda
+Car Model :Civic
+Buying price :1800000
+Sale price :1500000
+Year of Purchase :2018
+Car number :KA-02-AB-9876
+Kilometers run :100000
+----------------------------------------------------------------------------
+                           Sat Jan 21 07:55:58 IST 2023
+Name :Rohith
+Phone :9871267490
+Car Company :Lamborgini
+Car Model :urus
+Buying price :25000000
+Sale price :20000000
+Year of Purchase :2017
+Car number :KA-01-QW-5678
+Kilometers run :98735
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:14:53 IST 2023
+Name :Raju
+Phone :8903678352
+Car Company :honda
+Car Model :city
+Buying price :1200000
+Sale price :1000000
+Year of Purchase :2020
+Car number :KA-04-FG-2455
+Kilometers run :100000
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:16:10 IST 2023
+Name :Ravi
+Phone :9835678262
+Car Company :huyndai
+Car Model :ascent
+Buying price :1000000
+Sale price :600000
+Year of Purchase :2018
+Car number :KA-09-FT-3456
+Kilometers run :200000
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:16:13 IST 2023
+Name :Ravi
+Phone :9835678262
+Car Company :huyndai
+Car Model :ascent
+Buying price :1000000
+Sale price :600000
+Year of Purchase :2018
+Car number :KA-09-FT-3456
+Kilometers run :200000
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:20:08 IST 2023
+Name :Ravi
+Phone :9834686312
+Car Company :huyndai
+Car Model :ascent
+Buying price :1200000
+Sale price :1000000
+Year of Purchase :2021
+Car number :KA-09-DR-6743
+Kilometers run :75000
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:21:37 IST 2023
+Name :Mohith
+Phone :9876453210
+Car Company :honda
+Car Model :civic
+Buying price :1800000
+Sale price :1500000
+Year of Purchase :2018
+Car number :KA-09-DR-6743
+Kilometers run :50000
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:22:52 IST 2023
+Name :Mohith
+Phone :9825374569
+Car Company :honda
+Car Model :civic
+Buying price :1500000
+Sale price :1200000
+Year of Purchase :2021
+Car number :KA-06-AE-4586
+Kilometers run :50000

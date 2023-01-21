@@ -1,0 +1,60 @@
+----------------------------------------------------------------------------
+                           Sat Jan 21 07:48:06 IST 2023
+SOLD TO :
+Name :Raju------------>Raju
+Phone :9186473640
+Car company :
+Model :civic
+Km run :100000
+Price :1500000
+Car number :KA-02-AB-9876
+----------------------------------------------------------------------------
+                           Sat Jan 21 07:48:06 IST 2023
+SOLD TO :
+Name :Raju------------>Raju
+Phone :9186473640
+Car company :
+Model :civic
+Km run :100000
+Price :1500000
+Car number :KA-02-AB-9876
+----------------------------------------------------------------------------
+                           Sat Jan 21 07:50:36 IST 2023
+SOLD TO :
+Name :Raju------------>Raju
+Phone :9186473640
+Car company :
+Model :civic
+Km run :100000
+Price :1500000
+Car number :KA-02-AB-9876
+----------------------------------------------------------------------------
+                           Sat Jan 21 07:50:36 IST 2023
+SOLD TO :
+Name :Raju------------>Raju
+Phone :9186473640
+Car company :
+Model :civic
+Km run :100000
+Price :1500000
+Car number :KA-02-AB-9876
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:10:55 IST 2023
+SOLD TO :
+Name :Rohith------------>Rohith
+Phone :9871267490
+Car company :
+Model :urus
+Km run :98735
+Price :20000000
+Car number :KA-01-QW-5678
+----------------------------------------------------------------------------
+                           Sat Jan 21 08:10:55 IST 2023
+SOLD TO :
+Name :Rohith------------>Rohith
+Phone :9871267490
+Car company :
+Model :urus
+Km run :98735
+Price :20000000
+Car number :KA-01-QW-5678
